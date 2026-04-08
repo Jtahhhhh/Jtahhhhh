@@ -1,34 +1,47 @@
-<!-- <img
-height="280"
-width="280"
-align="right"
- src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
-/>  -->
-👨 My name is Thanh Tran Van, studying Information Systems at CTU, graduating in 2024. I come from Vietnam and am currently a mobile developer.
+## 👋 About Me
 
-<!--[![Gem Version](https://badge.fury.io/rb/colorls.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)]() 
-![Dev Javascript](https://img.shields.io/badge/Dev-Javascript-yellow)
-![Dev PHP](https://img.shields.io/badge/Dev-PHP-blue) 
-[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)]() 
+Hi, I'm Thanh — a Full-Stack Developer based in Vietnam.
 
+I have hands-on experience working on production systems using Ruby on Rails and Flutter, focusing on backend architecture, RESTful APIs, and database design.
 
--->
+At my recent role, I contributed to system-level refactoring, including redesigning database structures, implementing role-based access control, and customizing authentication flows using Devise.
+
+I enjoy solving real-world problems, improving system architecture, and building scalable backend systems.
+
+## ⚡ About My GitHub
+
+Most of my recent work comes from real-world projects in a company environment, including production systems and internal applications that cannot be publicly shared.
+
+Because of that, my GitHub mainly contains learning projects and selected experiments rather than full production codebases.
+
+However, I have strong hands-on experience with:
+
+* Backend system refactoring
+* Database design & data migration
+* RESTful API development
+* Authentication & authorization (Devise)
+
+I am currently working on preparing and publishing more representative projects.
+
+## 🛠️ Tech Stack
+
+* Backend: Ruby on Rails, RESTful APIs
+* Frontend: Flutter, HTML/CSS, JavaScript
+* Database: PostgreSQL, MySQL
+* Tools: Git, Agile/Scrum
+
+---
 
 ```java
-class TranVanThanh{
-  school: string;
-  pronouns:string[];
-  hobbies: string[];
-  programming_languages: string[];
-  constructor() {
-    this.school =  "CTU";
-    this.pronouns =  ["he/him"];
-    this.hobbies = ["programming", "music", "badminton"];
-    this.programming_languages = ["Python", "Javascript", "Dart", "Java", "C#", "C++"]
-  }
+class TranVanThanh {
+  String role = "Full-Stack Developer";
+  String focus = "Backend Development";
+  String[] skills = {
+    "Ruby on Rails",
+    "RESTful APIs",
+    "PostgreSQL",
+    "Devise Authentication",
+    "Flutter"
+  };
 }
-
-
-
 ```
